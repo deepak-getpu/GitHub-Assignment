@@ -4,7 +4,7 @@ public class arrayCase2 {
 // Test program
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-// The test program: 
+// Git assignment 
 		
 		String firstName = "Mary";
 		String lastName = "Brown";
